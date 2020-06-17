@@ -1,5 +1,12 @@
 ## THE LIFE OF KOBE BRYANT
-
+<h1 style="background-color:SlateBlue;">KOBE BEAN BRYANT</h1>
+<div class="w3-bar w3-black">
+   <div style="background-image: url('b0d310fc34f5a2392bb909b914fdb75c_crop_exact');">
+   <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#" class="w3-bar-item w3-button">images</a>
+  <a href="#" class="w3-bar-item w3-button">videos</a>
+  <a href="#" class="w3-bar-item w3-button">tragedy death</a>
+</div>
 
 You can use the [editor on GitHub](https://github.com/ahmed23206/mypage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
