@@ -21,7 +21,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="/w3images/avatar_smoke.jpg" style="width:100%">
+  <img src="![b0d310fc34f5a2392bb909b914fdb75c_crop_exact](https://user-images.githubusercontent.com/67067669/85359629-a6526580-b4cb-11ea-9787-7480402066f2.jpg)" style="width:100%">
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
