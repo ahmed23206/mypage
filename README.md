@@ -59,28 +59,14 @@ shooting guard, Bryant entered the National Basketball Association (NBA) directl
 
 Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion High School in Pennsylvania, where he was recognized as the top high-school basketball player in the country. Upon graduation, he declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; the Hornets then traded him to the Lakers. As a rookie, Bryant earned himself a reputation as a high-flyer and a fan favorite by winning the 1997 Slam Dunk Contest, and he was named an All-Star by his second season.
  
+## LAKER LEGACY
+After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became the cornerstone of the Lakers. He led the NBA in scoring during the 2005–06 and 2006–07 seasons. In 2006, he scored a career-high 81 points; the second most points scored in a single game in league history, behind Wilt Chamberlain's 100-point game in 1962. Bryant led the team to two consecutive championships in 2009 and 2010, and was named NBA Finals MVP on both occasions. He continued to be among the top players in the league through 2013, when he suffered a torn Achilles tendon at age 34. Although he recovered from that injury, he suffered season-ending injuries to his knee and shoulder, respectively, in the following two seasons. Citing his physical decline, Bryant retired after the 2015–16 season.
+
+Bryant is the all-time leading scorer in Lakers franchise history. He was also the first guard in NBA history to play at least 20 seasons. His 18 All-Star designations are the second most all time, while it is the record for most consecutive appearances as a starter. Bryant's four All-Star MVP Awards are tied with Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s, and the epithet became widely adopted by the general public. At the 2008 and 2012 Summer Olympics, he won two gold medals as a member of the U.S. national team. In 2018, he won the Academy Award for Best Animated Short Film for his 2017 film Dear Basketball.
     
 
-    <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Chicago, US</p>
-      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +00 151515</p>
-      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: mail@mail.com</p>
-    </div><br>
-    <p>Let's get in touch. Send me a message:</p>
-
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="Email"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Subject" required name="Subject"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
-      <p>
-        <button class="w3-button w3-light-grey w3-padding-large" type="submit">
-          <i class="fa fa-paper-plane"></i> SEND MESSAGE
-        </button>
-      </p>
-    </form>
-  <!-- End Contact Section -->
-  </div>
+   
+  
   
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
