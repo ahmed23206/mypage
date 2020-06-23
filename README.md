@@ -45,7 +45,8 @@ body {font-family: "Lato", sans-serif}
   
 
   <!-- The Band Section -->
-  [5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)
+  ![b0d310fc34f5a2392bb909b914fdb75c_crop_exact](https://user-images.githubusercontent.com/67067669/85352913-ef9ab900-b4bb-11ea-88e4-8c89bc6d385d.jpg)
+
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">Kobe Bean Bryant</h2>
     <p class="w3-opacity"><i> Rest in peace</i></p>
