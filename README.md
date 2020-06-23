@@ -37,7 +37,6 @@ body {font-family: "Lato", sans-serif}
   <a href="#pictures" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">pictures</a>
   <a href="#videos" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">videos</a>
   <a href="#tragicdeath" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">tragicdeath</a>
-  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
 </div>
 
 <!-- Page content -->
@@ -46,6 +45,7 @@ body {font-family: "Lato", sans-serif}
   
 
   <!-- The Band Section -->
+  [5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">Kobe Bean Bryant</h2>
     <p class="w3-opacity"><i> Rest in peace</i></p>
