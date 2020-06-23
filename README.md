@@ -1,5 +1,4 @@
  
-!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -49,7 +48,7 @@ body {font-family: "Lato", sans-serif}
   <!-- The Band Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">Kobe Bean Bryant</h2>
-    <p class="w3-opacity"><i>We love music</i></p>
+    <p class="w3-opacity"><i> Rest in peace</i></p>
     <p class="w3-justify">Kobe Bean Bryant (/ˈkoʊbiː/ KOH-bee; August 23, 1978 – January 26, 2020) was an American professional basketball player. As a 
 shooting guard, Bryant entered the National Basketball Association (NBA) directly from high school, and played his entire 20-season professional career in the league with the Los Angeles Lakers. Bryant won many accolades: five NBA championships, 18-time All-Star, 15-time member of the All-NBA Team, 12-time member of the All-Defensive Team, 2008 NBA Most Valuable Player (MVP), two-time NBA Finals MVP winner. Widely regarded as one of the greatest players of all time, he led the NBA in scoring during two seasons, ranks fourth on the league's all-time regular season scoring and all-time postseason scoring lists.
 
@@ -66,7 +65,7 @@ Bryant was the son of former NBA player Joe Bryant. He attended Lower Merion Hig
       </div>
       <div class="w3-third">
         <p>Name</p>
-        <img src="/w3images/bandmember.jpg" class="w3-round" alt="Random Name" style="width:60%">
+        <img src="[5e45ccc62dae5c1c4c2c6697](https://user-images.githubusercontent.com/67067669/84943026-9afcd580-b098-11ea-8803-627f0a9fd530.jpeg)" class="w3-round" alt="Random Name" style="width:60%">
       </div>
     </div>
   </div>
